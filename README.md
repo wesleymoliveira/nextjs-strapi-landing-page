@@ -38,3 +38,4 @@ Runs next build and export which exports a files in a `out` folder to deploy
 $ yarn deploy
 ```
 # nextjs-strapi-landing-page
+# nextjs-strapi-landing-page
